@@ -48,6 +48,7 @@ pip install -r requirements.txt
 python preprocessing.py
 ```
 위 명령은 `dataset/preprocessed_data.pt` 파일을 생성합니다.
+[Download the large file here](https://drive.google.com/file/d/1cvihOMl6qfqy-dWHlqjS_zGNvdUtPOVD/view?usp=drive_link)
 
 ### 모델 학습
 다음 명령어를 실행하여 GNN 모델을 학습시킵니다:
